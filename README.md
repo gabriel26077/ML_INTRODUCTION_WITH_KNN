@@ -22,9 +22,13 @@ This project uses a basic Machine Learning algorithm, k-Nearest Neighbors (k-NN)
 
 This method is simple but effective for many classification problems, providing an intuitive and easy-to-implement approach.
 
-# Guide to Run this project
+## Example of prediction for k=3
 
-## C
+![Texto alternativo](example.png)
+
+The accuracy of the k-NN model: 97.78%
+
+# Guide to Run this project
 
 ## 1. Clone the Repository 
 <br>
